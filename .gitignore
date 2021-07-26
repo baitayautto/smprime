@@ -1,0 +1,8 @@
+# Ignore uploads directory.
+wp-content/uploads
+wp-content/uploads/*
+wp-content/uploads-webpc
+wp-content/uploads-webpc/*
+
+# Ignore ddev config. 
+/wp-config.php
